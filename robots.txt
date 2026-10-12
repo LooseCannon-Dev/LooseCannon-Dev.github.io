@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loosecannon-dev.github.io/Create-a-Blog/sitemap.xml
